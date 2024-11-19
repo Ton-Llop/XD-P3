@@ -10,4 +10,9 @@ Ejecuta el servidor primero para que esté listo para recibir conexiones:
 ## 2. Iniciar el Cliente
 ./client (IP) (Port)
 # Tener en cuenta
-Este juego solo puede coger una ip a la vez, no puede tener mas de una partida
+Este juego solo puede coger una ip a la vez, no puede tener mas de una partida.
+
+Tener entorno Linux i compilador gcc.
+
+
+
